@@ -5,6 +5,11 @@
 - 📧 Contate-me no e-mail: brunar.miranda@outlook.com
 - ☎️ Telefone: (11)95039-8725
 
+<div align="center">
+  <a href="https://github.com/brbmiranda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brbmiranda&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbmiranda&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
