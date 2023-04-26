@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Bruna Miranda.
 
 - 📚 Atualmente sou estudante de ADS na instituição de ensino UNIP
-- 💻 Estudando Python e SQL
+- 💻 Estudando Python e Javascript
 - 📧 Contate-me no e-mail: brunar.miranda@outlook.com
 - ☎️ Telefone: (11)95039-8725
 
