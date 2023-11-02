@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Bruna Miranda.
 
 - 📚 Atualmente sou estudante de ADS na instituição de ensino Estácio
-- 💻 Estudando Javascript
+- 💻 Estudando C#
 - 📧 Contate-me no e-mail: brunar.miranda@outlook.com
 - ☎️ Telefone: (11)95039-8725
 
