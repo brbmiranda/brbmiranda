@@ -2,7 +2,7 @@
 
 Apaixonada pela Educação e Tecnologia
 - 📚 Pedagoga
-- 🚀 Atualmente sou estudante de ADS na instituição de ensino Estácio
+- 🚀 Atualmente sou estudante de Análise e desenvolvimento de sistemas na instituição de ensino Estácio
 - 💻 Estudando C#
 - 📌 Contate-me no e-mail:brunar.miranda@outlook.com
 
