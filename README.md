@@ -27,6 +27,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="60" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Rafa-CSS" height="30" width="60" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tenor.com/pt-BR/view/league-of-legends-morgana-gif-26326282">
+  <iframe src="https://giphy.com/embed/WBB8G2r2vxlPmpa3oE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/leagueoflegends-paranoia-aphelios-heartsteel-WBB8G2r2vxlPmpa3oE">via GIPHY</a></p>
 </div>
   
   ##
