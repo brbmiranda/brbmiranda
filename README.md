@@ -4,7 +4,7 @@ Apaixonada pela Educação e Tecnologia
 - 📚 Pedagoga
 - 🚀 Atualmente sou estudante de Análise e desenvolvimento de sistemas na instituição de ensino Estácio
 - 💻 Estudando C#
-- 📌 Contate-me no e-mail:brunar.miranda@outlook.com
+- 📌 Contate-me no e-mail: brunar.miranda@outlook.com
 
 <div align="center">
   <a href="https://github.com/brbmiranda">
