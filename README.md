@@ -1,10 +1,10 @@
 ## Olá! Eu sou a Bruna Miranda.
 
 
-Apaixonada pela Educação e Tecnologia
+
 - 📚 Pedagoga
-- 🚀 Atualmente sou estudante de Análise e desenvolvimento de sistemas na instituição de ensino Estácio
-- 💻 Estudando C#
+- 🚀 Estudante de Análise e desenvolvimento de sistemas 
+- 💻 Front-end
 - 📌 Contate-me no e-mail: brunar.miranda@outlook.com
 
 
