@@ -28,6 +28,8 @@
   ##
 <div>
    <img align="right" alt="morganinha" height="150" style="border-radius:50px;" src="https://i.giphy.com/htBL3NCs6bov4oe2Mv.webp">
+   <img align="right" alt="morganinha" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9kenplcXgzYXRoNHQwdmM0ZDQzcHZ3b2sybWw1NHA3NXp2cnBpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o9liQfPRJe6YkEXCSa/giphy.gif">
+  
 </div>
 <div> 
   <a href="https://www.instagram.com/mirandabrubs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
