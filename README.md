@@ -27,7 +27,7 @@
   
   ##
 <div>
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/WBB8G2r2vxlPmpa3oE/giphy.gif">
+   <img align="right" alt="morganinha" height="150" style="border-radius:50px;" src="https://i.giphy.com/htBL3NCs6bov4oe2Mv.webp">
 </div>
 <div> 
   <a href="https://www.instagram.com/mirandabrubs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
