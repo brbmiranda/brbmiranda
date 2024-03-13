@@ -4,7 +4,6 @@
 
 - 📚 Pedagoga
 - 🚀 Estudante de Análise e desenvolvimento de sistemas 
-- 💻 Focusing Front-end
 - 📌 Contate-me no e-mail: brunar.miranda@outlook.com
 
 
