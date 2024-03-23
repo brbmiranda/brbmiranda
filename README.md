@@ -18,7 +18,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Typescript" height="40" width="100" src="https://icons8.com.br/icon/Xf1sHBmY73hA/typescript">
+  
   <img align="center" alt="React" height="40" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Node" height="40" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="HTML" height="40" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
