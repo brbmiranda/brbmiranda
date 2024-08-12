@@ -1,10 +1,8 @@
-## Olá! Eu sou a Bruna Miranda.
+## Bru
 
 
 
-- 📚 Pedagoga
-- 🚀 Estudante de Análise e desenvolvimento de sistemas 
-- 📌 Contate-me no e-mail: brunar.miranda@outlook.com
+📚 As vezes coloco alguns códigos aqui :) 
 
 
 ##
