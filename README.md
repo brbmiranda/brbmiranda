@@ -1,8 +1,8 @@
 ## Bru
 
 
-📚 Pedagoga
-📚 Tec. Desenvolvimento de Sistemas
+- 📚 Pedagoga
+- 📚 Tec. Desenvolvimento de Sistemas
 
 
 ##
