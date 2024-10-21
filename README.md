@@ -1,8 +1,8 @@
 ## Bru
 
 
-
-📚 As vezes coloco alguns códigos aqui :) 
+📚 Pedagoga
+📚 Tec. Desenvolvimento de Sistemas
 
 
 ##
