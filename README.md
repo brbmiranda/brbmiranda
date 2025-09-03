@@ -2,7 +2,7 @@
 
 
 - 📚 Pedagoga
-- 📚 Tec. Desenvolvimento de Sistemas
+- Instrutora de Informática e Robótica. 
 
 
 ##
