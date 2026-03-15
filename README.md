@@ -1,8 +1,8 @@
 ## Bru
 
 
-- 📚 Pedagoga
-- Instrutora de Informática e Robótica. 
+- Olá, meu nome é Bruna Miranda. 
+- Sou formada em Licenciatura em Pedagogia e pos-graduando em Gestão de Projetos e Metodologias Ágeis e Design Instrucional. 
 
 
 ##
