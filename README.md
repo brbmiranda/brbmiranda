@@ -1,4 +1,4 @@
-## Bru
+## Bruna
 
 
 - Olá, meu nome é Bruna Miranda. 
