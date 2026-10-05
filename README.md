@@ -4,6 +4,14 @@
 - Olá, meu nome é Bruna Miranda. 
 - Sou formada em Licenciatura em Pedagogia e pos-graduando em Gestão de Projetos e Metodologias Ágeis e Design Instrucional. 
 
+Minha trajetória une a área da Educação com Tecnologia, com experiência em Robótica Educacional, programação, formação de professores, desenvolvimento de materiais pedagógicos e suporte a soluções digitais.
+🚀 Atualmente
+🤖 Desenvolvendo projetos de Robótica Maker com Arduino e C++
+💡 Explorando programação, eletrônica e prototipagem
+📚 Criando projetos que aproximam tecnologia e educação
+🎨 Desenvolvendo materiais e experiências educacionais
+🌱 Aprimorando conhecimentos em Tecnologia, Design Instrucional e Gestão de Projetos
+
 
 ##
 <div align="center">
