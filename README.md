@@ -1,4 +1,4 @@
-##Olá! Sou Bruna Miranda
+## Olá! Sou Bruna Miranda
 
 Professora de Tecnologia Educacional, com formação em Pedagogia e atuação na formação de professores, treinamentos e gestão do conhecimento.
 
