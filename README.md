@@ -1,21 +1,12 @@
-## Bruna
+##
 
+Olá! Sou Bruna Miranda, professora de Tecnologia Educacional, com formação em Pedagogia e atuação na formação de professores, treinamentos e gestão do conhecimento.
 
-- Olá, meu nome é Bruna Miranda. 
-- Sou formada em Licenciatura em Pedagogia e pos-graduando em Gestão de Projetos e Metodologias Ágeis e Design Instrucional. 
+Minha trajetória conecta educação, tecnologia e inovação. Atualmente, direciono meus estudos e projetos para o desenvolvimento de soluções envolvendo eletrônica, robótica educacional, Arduino e programação em C++.
 
-Minha trajetória une a área da Educação com Tecnologia, com experiência em Robótica Educacional, programação, formação de professores, desenvolvimento de materiais pedagógicos e suporte a soluções digitais.
-🚀 Atualmente
+Tenho interesse em explorar as possibilidades da tecnologia na Educação Básica, desenvolvendo projetos alinhados à BNCC Computação, com foco no pensamento computacional, raciocínio lógico e aprendizagem prática.
 
-🤖 Desenvolvendo projetos de Robótica Maker com Arduino e C++.
-
-💡 Explorando programação, eletrônica e prototipagem.
-
-📚 Criando projetos que aproximam tecnologia e educação.
-
-🎨 Desenvolvendo materiais e experiências educacionais.
-
-🌱 Aprimorando conhecimentos em Tecnologia, Design Instrucional e Gestão de Projetos.
+Acredito na integração entre educação e tecnologia como caminho para criar, experimentar e transformar ideias em projetos.
 
 
 ##
